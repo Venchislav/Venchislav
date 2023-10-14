@@ -11,4 +11,5 @@
     <img src="https://dcbadge.vercel.app/api/shield/858232811382374430" alt="Discord Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=Venchislav&style=flat-square&color=blue" alt=""/>
 </div>
