@@ -7,9 +7,7 @@
   <a href="https://www.youtube.com/channel/UCFRGI3c4ltX-1CvnWBAnPAA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="discord.com/users/858232811382374430">
     <img src="https://dcbadge.vercel.app/api/shield/858232811382374430" alt="Discord Badge"/>
-  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Venchislav&style=flat-square&color=blue" alt=""/>
   <h1>hey there</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
