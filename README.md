@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/channel/UCFRGI3c4ltX-1CvnWBAnPAA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="">
+  <a href="discord.com/users/858232811382374430">
     <img src="https://dcbadge.vercel.app/api/shield/858232811382374430" alt="Discord Badge"/>
   </a>
 </div>
