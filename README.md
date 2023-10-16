@@ -21,5 +21,6 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Venchislav&theme=dark&background=000000)](https://git.io/streak-stats)<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venchislav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  ---
+  "Code is like humor. When you have to explain it, it’s bad" – Kent Beck
 </div>
