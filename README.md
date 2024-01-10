@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/3iyKHMIKg5VWG6qHUm/200.webp?cid=ecf05e47eras6x4f638p57b2ot603cbw5bt6t0r54ub8ites&ep=v1_stickers_search&rid=200.webp&ct=s" width="100"/>
+  <img src="https://media.tenor.com/VkGE6OgHhTMAAAAi/maxwell-maxwell-cat.gif" width="100"/>
   <div id="badges">
   <a href="https://www.reddit.com/user/Venchislav">
     <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
