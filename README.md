@@ -19,7 +19,7 @@
   <h1>hey there</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
   <H1>ABOUT ME:</H1>
-  I am a Machine Learning and Deep Learning student <img src="https://media1.giphy.com/media/RemHbGtR3lNsqyERMS/200w.webp?cid=ecf05e47duqd2m9t0jjxm01407scoq3yidrg7gdynqd2cxwp&ep=v1_stickers_search&rid=200w.webp&ct=s" width="30"> from Zelenograd-Moscow.<br>
+  I am a Machine Learning and Deep Learning student <img src="https://media1.giphy.com/media/RemHbGtR3lNsqyERMS/200w.webp?cid=ecf05e47duqd2m9t0jjxm01407scoq3yidrg7gdynqd2cxwp&ep=v1_stickers_search&rid=200w.webp&ct=s" width="30"> from Helsinki, Finland.<br>
   I try to learn new things about ML and DL and post some results and my code here.
 
   ---
